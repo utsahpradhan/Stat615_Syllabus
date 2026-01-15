@@ -15,10 +15,7 @@ A beautiful, modern weather website that shows **live current conditions**, **ho
 ## Live Demo
 After enabling GitHub Pages, your site will be available at:
 
-- **Project site:** `https://YOURUSERNAME.github.io/YOURREPO/`
-
-Example:
-- `https://utsahpradhan.github.io/Stat615_Syllabus/`
+- **Project site:** `https://utsahpradhan.github.io/Weather_Demo_For_Fun/`
 
 ---
 
