@@ -1,3 +1,5 @@
+<img width="1280" height="564" alt="image" src="https://github.com/user-attachments/assets/14a47825-4a97-4d23-b145-804941017654" />
+
 # Skyline Weather 🌤️
 
 A beautiful, modern weather website that shows **live current conditions**, **hourly forecast**, and a **7-day forecast** with a clean UI.
