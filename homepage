@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nova — Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Top Nav -->
+  <header class="site-header">
+    <nav class="nav">
+      <a class="logo" href="#">Nova<span>.</span></a>
+
+      <ul class="nav-links">
+        <li><a href="#features">Features</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#pricing">Pricing</a></li>
+        <li><a class="btn btn-small" href="#get-started">Get Started</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-text">
+          <p class="tag">New • Simple • Modern</p>
+          <h1>Build a homepage that looks professional in minutes.</h1>
+          <p class="subtext">
+            A clean layout with a hero section, feature cards, and a call-to-action.
+            Fully responsive and easy to customize.
+          </p>
+
+          <div class="hero-actions">
+            <a class="btn" href="#get-started">Start Now</a>
+            <a class="btn btn-ghost" href="#features">See Features</a>
+          </div>
+
+          <div class="stats">
+            <div class="stat">
+              <span class="stat-number">1k+</span>
+              <span class="stat-label">users</span>
+            </div>
+            <div class="stat">
+              <span class="stat-number">99%</span>
+              <span class="stat-label">uptime</span>
+            </div>
+            <div class="stat">
+              <span class="stat-number">24/7</span>
+              <span class="stat-label">support</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <div class="card">
+            <div class="card-top">
+              <di
